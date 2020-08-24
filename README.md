@@ -1,7 +1,5 @@
 # gitpython_examples
 
-![自己项目](https://gitee.com/wwtm/picgo/raw/master/img/20200819193135.jpg)
-
 👇**这个项目有什么？**
 
 这个项目包括以下内容：
@@ -120,5 +118,5 @@
 
 | 原文链接                                                     |
 | :----------------------------------------------------------- |
-| [写给程序员朋友们的公众号排版秘籍](https://mp.weixin.qq.com/s/acZvpVQt8AZO5pixu5vuaA) |
+| [公众号排版秘籍](https://mp.weixin.qq.com/s/acZvpVQt8AZO5pixu5vuaA) |
 
